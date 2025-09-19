@@ -15,7 +15,9 @@ This project contains exploratory data analysis (EDA) on Zameen.com dataset.
 
 2. Run all cells from top to bottom.  
    - The first cell will automatically **clone this repo** into Colab.  
-   - The dataset will load from `data/Zameen.com.xlsx`.  
+   - The dataset will load from `data/Zameen.com.xlsx`.
+3. In case collab file is not running, open it on your pc by mounting to your google drive and using the link to the google drive file
+   in order to read the file.  
 
 ## Output
 - The final insights are available in: `report/Zameen_EDA_Insights_Report.pdf`
